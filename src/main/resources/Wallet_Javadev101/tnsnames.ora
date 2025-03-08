@@ -8,5 +8,4 @@ q18vdh0dedin3ilh_tp = (description= (retry_count=20)(retry_delay=3)(address=(pro
 
 q18vdh0dedin3ilh_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-queretaro-1.oraclecloud.com))(connect_data=(service_name=g167880d285362f_q18vdh0dedin3ilh_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
 
-
-
+javadev101_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.mx-queretaro-1.oraclecloud.com))(connect_data=(service_name=g167880d285362f_q18vdh0dedin3ilh_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
